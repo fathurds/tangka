@@ -1,0 +1,35 @@
+{
+  "name": "tangka",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@fortawesome/free-solid-svg-icons": "^6.4.2",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@headlessui/react": "^1.7.17",
+    "@reduxjs/toolkit": "1.9.5",
+    "classnames": "^2.3.2",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-redux": "8.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "@types/redux-logger": "3.0.9",
+    "autoprefixer": "latest",
+    "eslint": "latest",
+    "eslint-config-next": "latest",
+    "postcss": "latest",
+    "redux-logger": "3.0.6",
+    "tailwindcss": "latest",
+    "typescript": "latest"
+  }
+}
